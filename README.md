@@ -10,7 +10,7 @@ Currently diving into **Natural Language Processing**, **Machine Learning**, and
 
 ### 📫 How to reach me [rutuja11p@gmail.com](mailto:rutuja11p@gmail.com)  
 
-### Connect with me: [LinkedIn: rutujapatil](https://www.linkedin.com/in/rutuja-patil-b65735254/)
+### 🤝 Connect with me: [LinkedIn: rutujapatil](https://www.linkedin.com/in/rutuja-patil-b65735254/)
 
 ### ⚒️ Languages, Frameworks & Tools:
 - **Languages**: Python, JavaScript, Java, R, Kotlin
