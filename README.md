@@ -8,7 +8,7 @@ AI-powered applications, Hybrid Recommendation Model, and voice-enabled technolo
 ### 🌱 Learning
 Currently diving into **Natural Language Processing**, **Machine Learning**, and **AI-powered systems**.
 
-### 📫 How to reach me [rutuja11p@gmail.com](mailto:rutuja11p@gmail.com)  
+### 📫 How to reach me: [rutuja11p@gmail.com](mailto:rutuja11p@gmail.com)  
 
 ### 🤝 Connect with me: [LinkedIn: rutujapatil](https://www.linkedin.com/in/rutuja-patil-b65735254/)
 
