@@ -17,11 +17,7 @@ Currently diving into **Natural Language Processing**, **Machine Learning**, and
 - **Frameworks**: Flask, Django, TensorFlow, PyTorch, OpenCV, MediaPipe
 - **Tools**: Git, VS Code, Google Colab, Jupyter, Tableau, Power BI, TensorFlow Lite
 
-### ⚡ Stats
-![Rutuja's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rutuja&show_icons=true&hide_title=true)
 
-### Top Languages:
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rutuja&langs_count=6&layout=compact)
 
 <!---
 Rutuja1193/Rutuja1193 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
