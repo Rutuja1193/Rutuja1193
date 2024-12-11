@@ -8,11 +8,9 @@ AI-powered applications, geospatial map-based user interfaces, and voice-enabled
 ### 🌱 Learning
 Currently diving into **Natural Language Processing**, **Machine Learning**, and **AI-powered systems**.
 
-### 📫 How to reach me
-[rutuja11p@gmail.com](mailto:rutuja11p@gmail.com)  
+### 📫 How to reach me [rutuja11p@gmail.com](mailto:rutuja11p@gmail.com)  
 
-### Connect with me:
-- [LinkedIn: rutujapatil](https://www.linkedin.com/in/rutuja-patil-b65735254/)
+### Connect with me: [LinkedIn: rutujapatil](https://www.linkedin.com/in/rutuja-patil-b65735254/)
 
 ### ⚒️ Languages, Frameworks & Tools:
 - **Languages**: Python, JavaScript, Java, R, Kotlin
