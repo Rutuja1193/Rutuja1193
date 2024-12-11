@@ -1,9 +1,9 @@
 # Hello! I'm Rutuja Patil 👋
 
-I'm passionate about continuously expanding my knowledge in the tech landscape, and seeking opportunities to leverage my skills in web development, data analytics, and machine learning to create innovative solutions and contribute to impactful projects.
+I'm passionate about continuously expanding my knowledge in the tech landscape, and seeking opportunities to leverage my skills in data analytics, machine learning, and web development to create innovative solutions and contribute to impactful projects.
 
 ### 🔭 Currently working on
-AI-powered applications, geospatial map-based user interfaces, and voice-enabled technologies.
+AI-powered applications, Hybrid Recommendation Model, and voice-enabled technologies.
 
 ### 🌱 Learning
 Currently diving into **Natural Language Processing**, **Machine Learning**, and **AI-powered systems**.
